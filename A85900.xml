@@ -1,0 +1,150 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A generall cry: for the king to come sit with his Parliament in his former splendor, honour, and royall Majesty; or the kingdom is undon, &amp;c.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85900</idno>
+            <idno type="STC">Wing G497fA</idno>
+            <idno type="STC">ESTC R230536</idno>
+            <idno type="EEBO-CITATION">99899628</idno>
+            <idno type="PROQUEST">99899628</idno>
+            <idno type="VID">154162</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85900)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 154162)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2402:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A generall cry: for the king to come sit with his Parliament in his former splendor, honour, and royall Majesty; or the kingdom is undon, &amp;c.</title>
+               </titleStmt>
+               <extent>[1], 7 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the year, 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing (CD-ROM edition).</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term>England and Wales. --  Parliament --  History --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-09</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:154162:1" rendition="simple:additions"/>
+            <p>
+               <pb facs="tcp:154162:1" rendition="simple:additions"/> A Generall Cry: FOR THE KING To come ſit with his PARLIAMENT IN HIS Former Splendor, Honour, and Royall Majeſty; or the Kingdom is un<g ref="char:EOLhyphen"/>don, &amp;c.</p>
+            <q>
+               <bibl>GEN: 49. 9. 10.</bibl>
+               <p>
+                  <hi>Iudah is a Lyons Whelp, from the Prey, and as an old Lyon: who ſhall rouſe him up: the Septer ſhall not depart from Iudah, nor a Law-giver from between his feet.</hi>
+               </p>
+            </q>
+            <p>Printed in the Year, 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:154162:2"/>
+            <head>A generall Cry: for the King to come ſit with his Parliament in his former Splendor, &amp;c.</head>
+            <p>THe generall Cry hath been a Perſonall Treaty, and is now a<g ref="char:EOLhyphen"/>aking, aking, The King muſt come home to ſit with his Parlia<g ref="char:EOLhyphen"/>ment in his former Splendor, Honour, and Majeſty, or the King<g ref="char:EOLhyphen"/>dom is undone, His Perſon is no wayes lyable to Juſtice; for he is the Lords Anointed, His Perſon is Sacred, the Kings of Izraell were ſo, they were immediately ſet up by God, and he only hath power to pull them down; It is granted that the Kings of Izraell were tipes of our Lord Jeſus, the King of the Church, and in that reſpect were only Anointed, and Sacred; but not as his Anointed ones, whom Jeſus Chriſt hath made Kings and Prieſts (or Princes) unto God, and his Father, <hi>Rev.</hi> 1. 6. concerning whom God ſaith, he reproved Kings for their ſakes, ſaying, touch not mine Anointed, nor do my Prophets no harme: Nay Kings ſhall be given for them, and theſe Kings of the Gentiles, were im<g ref="char:EOLhyphen"/>mediately conſtituted &amp; ſet up by the people. And thus the Kings of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> have received their ancient Splendor, Honour, and royall Majeſty, and have been interreſſed, entruſted, and abſolutely authorized, and impower<g ref="char:EOLhyphen"/>ed, with the execution of Law, both for their own, and the publike good, and ſafety of the people, that all, being regulated, and protected, might be every one contented with their own propriety, and right, the Perſon of the King being ſubject to Law, and all his actions ruled by it. Thus the Kings Prerogative is the bounds of liberty, and the peoples obedience de<g ref="char:EOLhyphen"/>clares their allegiance, they may not conteſt one againſt another. The Kings power doth not extend to act any thing contrary to Law, nor hath he power to make Lawes, that hath been alwayes reſerved unto the people, as their principall Prerogative, inherently in themſelves, &amp; the on<g ref="char:EOLhyphen"/>ly meanes for the publike good, and ſafety of each, &amp; every of them; but wholly committed at all times unto their grand Truſtees. Next under God, the high Court of Parliament, the heads of their Tribes, the Kingdom repreſentative, perſons choſen from among themſelves, who ſhould be of ſinguler wiſdom, and integrity, <hi>Exod</hi> 18. 21. ſuch as fear God, men of truth, hating covetuouſneſſe, and well acquainted with the peoples ne<g ref="char:EOLhyphen"/>ceſſities, that they may thereby be able to make good, and ſutable Lawes, for the good and relief, of all and every one, the King by his Office, and
+<pb n="2" facs="tcp:154162:2"/> his Oath being only bound to confirme and maintain, all thoſe Lawes ſo made, in a Parliamentary way, for the publike good and ſafety of the people, this is the ſupream rule, all Lawes are derived from hence as their Fountain, and end in this as their proper Center. All Actions that oppoſe this rule are againſt Law, and the eminency of the perſon ſo acting, agravates the offence, and de<g ref="char:EOLhyphen"/>clares the fowlneſſe of the Rebellion and treaſon, nor ought any ſuch to be protected in life, limb, or Eſtate; but whoſoever ſhall any wayes contrive or endeavour to ſubvert the fundamentall Law of the Land, by acting in an ar<g ref="char:EOLhyphen"/>bitrary and deſtructive courſe, ſhall ſuffer for it as the higheſt Treaſon, be<g ref="char:EOLunhyphen"/>cauſe tis againſt the publike good and ſafety of the people: this was the Earl of <hi>Straffords,</hi> and <hi>William Land</hi> Arch Biſhop of <hi>Canterbury</hi> their Caſe, who were adjudged, condemned, and executed for it. But it is well known, that the King hath done far worſe then they did, not only endeavoring, but with a high hand practiſing the ſubvertion of the fundamentall Lawes of the Land, and the deſtruction of the Kingdom, not only for many years together in the times of peace; but at laſt by ſetting up his Standard, and proclaiming open Warre upon his Parliament, invading the Kingdom and people, &amp; fighting againſt them ſo long as he was able, perſiſting in full oppoſition to the Parliaments humble ſuits, and Declarations made unto him, ſhewing the manifeſt danger he would expoſe his perſon and people unto, when he ſhould ſo do, and that therefore they were bound in duty and Conſcience to defend the Kingdoms, againſt him and all his wicked Councellers and adherents, moſt trayte<g ref="char:EOLhyphen"/>rous proceedings againſt their lives, Eſtates, and liberties, whenſoever he ſhould make Warre upon the Parliament, who propoſed no other end unto themſelves, but the care of his Kingdoms, and the performance of their duty and loyalty to his perſon, (and therefore) that whenſoever the King maketh Warre upon the Parl. it is a breach of the truſt repoſed in him, by his people, contrary to his Oath, and tending to the diſſolution of this Government, that whoſoever ſhall ſerve and aſſiſt him in ſuch Warre, are Traytors by the fundamentall Lawes of this Kingdom, and have been ſo adjudged by two Acts of Parl. and ought to ſuffer as Traytors, (Parl. Declara. 20. <hi>May</hi> 1642.) 11. <hi>Rich.</hi> 2. 1. <hi>Hen.</hi> 4. And yet the King did proceede in ſeting up his Standard, and waging an open Warre upon the Parl. and againſt all his good and loyall Subjects, con<g ref="char:EOLhyphen"/>trary to his Oath and duty, not regarding their publike good and ſafety, and thereby put them out of his protection, and diſſolved their allegiance to him. And this may be one reaſon the right Honourable, Sir <hi>Thomas,</hi> now Lord <hi>Fairfax,</hi> his Excellency, and the now Army took their Commiſſions only for the defence of the Kingdom and Parl. and have done moſt righteouſly in it, God ſealing unto it, by his bleſſing, in giving them extraordinary, and unheard of ſucceſſe, to the ſubduing of all thoſe traytorous forces, and captivating the
+<pb n="3" facs="tcp:154162:3"/> King, ſo that we ſee by the Parl. Declarations, and the Kings practices com<g ref="char:EOLhyphen"/>pared, that the King is wholly elapſed in his Splendor, Dignity, Honour, and Majeſty, and ſtands guilty of all the precious blood ſhed in theſe 3. Kingdoms, beſides all the rapine, and ruines, of milions of people, now providencially con<g ref="char:EOLhyphen"/>feſſed by him, in his ſigning the preamble &amp; the firſt Propoſition, fully juſtify<g ref="char:EOLhyphen"/>ing the Parliament, of performing thir duty, in all their proceedings, in defence, &amp; for the ſafety and preſervation of the Kingdom and people, and hath made himſelf culpable in the eye of the whole world; ſurely then it is but a fooliſh thing to think he ſhall ever be granted a negative Vote, that were to take a<g ref="char:EOLhyphen"/>way the priviledge of Parl. for making any Lawes, but ſuch as the King wills, be they never ſo uſefull for the people. And to grant him the Militia were to arm him with power to wreake, his wrath upon all that have oppo<g ref="char:EOLhyphen"/>ſed the pernitious courſes of him and his adherents, &amp; to exclude the Parl. and people in the future, from all meanes of defence, when their enemies ſhall in<g ref="char:EOLhyphen"/>vade them in their rights; what reaſon is there then that the Parl. ſhall pro<g ref="char:EOLhyphen"/>tect the King from Juſtice, and bring him home to ſit among themſelves, ſeeing he hath rejected their wholſome advice and Councell, humbly offered unto him in due time, even as <hi>Sihon</hi> King of the <hi>Amorites,</hi> rejected the Councell, and Meſſengers of <hi>Jeptha,</hi> and <hi>Izrael,</hi> humbly offered unto him, he not regar<g ref="char:EOLhyphen"/>ding them; but diſſolving all amity with them, did fight againſt them to the loſſe of his life and Kingdoms. Our King being much more bound in duty for the publike good and ſafety of his Parl. and people, (then <hi>Sihon</hi> was to <hi>Jepthae</hi> and <hi>Iſrael</hi>) yet diſſolving all bonds of duty, he perpetrated an unjuſt and wicked Warre, to the incredible deſtruction of his moſt faithfull people, &amp; quite contrary to his many Oaths, and proteſtations made to the contrary. Nor hath he ever manifeſted any ſigne of repentance by ſetting againſt his wicked Councellours, and adherents, deſiring they may be brought to condigne pun<g ref="char:EOLhyphen"/>iſhment, nor ſhewing any grief for his great offence committed againſt the Majeſty of God in thus ſetting againſt the publike good and ſafety of the King<g ref="char:EOLhyphen"/>doms and people. Again, what reaſon? of his former liberty to ſit and act with the Parl. he being at their diſpoſe, is this the way to ſecure themſelves and the people (who have alwayes ſtuck to them, and ſuffered with them) from all fu<g ref="char:EOLhyphen"/>ture dangers, will not a poyſoned Fountain corrupt every ſtream, and rivellet it can have acceſſe unto, if it be not cut of. Again, if you ſay he is their Father, and Husband, and they are his wife and Children, with whom he ought to have cohabitation, and Communion, as the only meanes to cure all diſtempers in the Kingdom: Argue rightly, the Husband hath adultrated his bed, and ſpent his ſtrength, with harlots and ſtrangers, having expoſed himſelf by a loathſome and poyſonous ſickneſſe unto death, the Father hath murthered a multitude of his beſt Children, and would gladly kill the reſt, being a priſoner
+<pb n="4" facs="tcp:154162:3"/> for it, is it therfore fit he ſhould have cohabitation, and Communion with them. Can this be the only meanes, to cure all diſtempers in the Kingdom, eſ<g ref="char:EOLhyphen"/>ſpecially now he hath diſſolved his intereſt of a Father, and Husband, almoſt to this great Families deſtruction, but irreparable loſſe</p>
+            <p>Again, conſider with what expence of blood, loſſe of friends, Eſtates, and hardſhip, the faithfull of the Land, have by Gods ſinguler goodneſſe unto them, at laſt overcome Giants of difficulties, and now being at ſome reſt, qui<g ref="char:EOLhyphen"/>etly poſſeſſing and enjoying their lives, liberties, Eſtates, and Lawes, anciently and naturally inherent in themſelves, &amp; now theirs by right of Conqueſt alſo. How can they now ſurrender themſelves, and all they enjoy, (in a moſt ſlaviſh manner) unto their conquered enemy and priſoner, that he may poſſeſs all as his own, and rule them at his pleaſure and will. You know that <hi>Jeptha</hi> and <hi>Iſraell</hi> would not part with that right which God had peſſeſt them of, not full 300. years, unto their then enemy, but not conquered priſoner, the King of <hi>Amon,</hi> and yet it was not theirs, but the <hi>Amorites,</hi> by originall right, they only wan it, and did weare it by the Sword, and Gods goodneſſe to them. <hi>Iudg.</hi> 11. 19. 20. &amp;c.</p>
+            <p>Again, conſider how the Kings perſonall preſence with his Parliament can produce perſonall unity, ſeeing the Lord hath ſaid, <hi>the ſoul that ſinneth, it ſhall dye, Zek.</hi> 18. 20. by this means they may bring not only his ſin, but all Gods righteous Judgments belonging to the King upon their own heads; for thus ſaith the Lord, becauſe thou haſt let go out of thy hand a man whom I appoin<g ref="char:EOLhyphen"/>ted to utter deſtruction: therefore thy life ſhall go for his life, and thy people for his people. 1 <hi>King.</hi> 20. 24. May not God moſt juſtly ſay this unto the Parliament, if they let him go free.</p>
+            <p>Again, the eminency of the Kings perſon, and ſin, doth no wayes extenuate but agravate his judgment, and makes him ſucceſſes, it was <hi>Conjas</hi> Caſe. <hi>As I live ſaith the Lord, though Conja the Son of Iehojakim, King of Iuda, were the Signet upon my right hand, yet will I pluck him thence, Ier.</hi> 22. 24. 30. read the place. And again, <hi>write him a man that ſhall not proſper all his dayes.</hi> Will it not then agravate the Parliaments Judgment, and make them ſucceſleſſe, if they make themſelves partakers of his ſin, in not executing Judgment. But we hope better things.</p>
+            <p>Again, is not the Parliament very ſencible of Gods righteous hand, in blaſting all the Kings deſignes when hatched, and his Councells, though laid as low as Hell, delivering his perſon into their hand, and will they not exe<g ref="char:EOLhyphen"/>cute Judgment upon him: that Gods bleſſing may be continued upon the Kingdom, with them and their poſterity, and will they not expell from their fellowſhip in both Houſes, all ſuch as they can diſcover, to have undermined their proceedings, and to have been under-hand friends to the King, that they
+<pb n="5" facs="tcp:154162:4"/> may be able to act freely for the Kingdoms, in Judgment and righteouſneſſe, without interruption, or oppoſition of the wicked. Wiſdom is better then weapons of Warre, but one ſinner deſtroyeth much good. <hi>Eccleſ.</hi> 9. 18. How much more may many Achans among them deſtroy 3. Kingdoms (which God forbid) if Law Juſtice, and Judgment, be not executed.</p>
+            <p>Again, let the King in his perſon be where he will, have not the Parl. the King Authoritively with them, in his royal Power, Office, &amp; Capacity, to main<g ref="char:EOLhyphen"/>tain Law, and execute Juſtice upon the wicked<g ref="char:punc">▪</g> they have his Sword, his Scepter, and his Seal, that they may do juſtly, love mercy, and walk humbly with their God. <hi>Mica</hi> 6. 8. And is it not in this ſence, the King cannot de<g ref="char:EOLhyphen"/>ceive nor be deceived, never dyes, can neither do, nor take wrong, and is it not in this ſence, we have fought for the King and Parl. though the King was in perſonall oppoſition to both, what neceſſity is there then that he muſt ſit in perſon with the Parliament. We know, that neither policy, open Warre, Trea<g ref="char:EOLhyphen"/>chery, great and ſmall Guns, all kinds of practices, and Councells, with Pikes, Swords, &amp;c. could formerly reach them, in many years, yet now more pri<g ref="char:EOLhyphen"/>vately ſhort daggers can, or may do it, ſuddenly, ſurely, and is it not the time of the perſonall Treaty: this perſonall treachery hath been perpetrated, in a moſt butcherly, and bloody manner, upon Col. <hi>Rainsborough,</hi> a principall Heroy, &amp; faithfull Member of their own Houſe, and Servant to the Kingdom, Did ever any Treaty, end without Treaſon, acted by the Kings party, Did ever any man thus periſh, being at reſt in his quarters, and in the midſt of your own forces; for whom let every faithfull one lament, as <hi>David</hi> did for <hi>Abner,</hi> ſaying, how dyed he as foole, his hands were not bound, nor his feet put in fetters, (there was no cauſe for that, he was no Delinquent, nor conquerred priſoner) (he fell) as a man falleth before (Children of iniquity) wicked men, and is there not a conſpiracy, (in the midſt of us, againſt all the moſt active men in both Houſes, and the Army, who if now diſſolved the Kingdom is ruined, &amp; may you not all fall, if you do not timely Juſtice, upon your, &amp; Gods enemies, the chiefeſt &amp; fateſt of them. Ought <hi>Agag,</hi> to be ſpared; if you would have your ſelves &amp; the Kingdom ſure ſetled, &amp; ſecured from deſtructio<g ref="char:cmbAbbrStroke">̄</g> by their enemies, read) 1 <hi>Cron.</hi> 10. 13. compared with 1 <hi>Sam.</hi> 15. 9. &amp;c. and 22. 23.</p>
+            <p>But to conclude, though many have added unto all their ſins, this evill to ask them a King, (not one as <hi>Saul</hi> was then, without blemiſh, when firſt appoin<g ref="char:EOLhyphen"/>ted of God to ſatisfie their vain deſires, they truſting in a King more then in God.) But one worſe then Rebellious <hi>Saul,</hi> when Afterwards corrupted, ſtayned, and rejected of God; for his tranſgreſſion was only in ſparing Gods enemies, which may poſſible be the Parliaments ſin and confuſion, if they be not zealous and faithfull unto the Lord; which God forbid, but the Kings tranſgreſſion is in deſtroying and <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uting of the Lords deare friends, his firſt
+<pb n="6" facs="tcp:154162:4"/> borne, his peculiar Treaſure and Jewells, thoſe that are ſo tender to him, that he that toucheth them, toucheth the apple of his eye, God hath reproved Kings for their ſakes, ſaying, touch not mine Anointed, nor do my Prophets no harm, <hi>Iohn</hi> 15. <hi>Exod.</hi> 4. 22. &amp; 19. 5 <hi>Zec.</hi> 28. <hi>Pſal.</hi> 105. 14. 15. here then you ſee therefore the greatneſſe of the Kings ſin, and ſutable is their ſin who ask ſuch a King, and this, even this ſin, have they added unto all their ſins, as if that God had ſaid, there is none of all your ſins like unto this ſin, it is a ſeminary of ſins, and hath its wombe full of the greateſt ſins, and Judgments conceived in it, and to be brought forth together, and although there be many that have done all this wickedneſſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, and turned aſide after vain things, yet know that the Lord hath promiſed, for their encouragement and comfort, that he will not forſake his people for his great names ſake, becauſe it hath pleaſed the Lord to make you his people: Only fear the Lord, and ſerve him in truth, withall your heart; for conſider how great things he hath done for you, 2 <hi>Sam.</hi> 12. 22. 24. Had ever any Parliament the like experience of Gods goodneſſe; and is it not, that you may ſettle and ſecure every one in their rights, priviledges, lives, and li<g ref="char:EOLhyphen"/>berties, that they may live a peaceable and godly life, under you, being freed from all Tyrants, and oppreſſors hands, is not Gods glory, in the publike good and ſafety of the people, your principall ayme and intereſt, that all things may be reformed according to Gods Word, we beſeech you then, ſet that pattern before you, without any fear or amazement; for he hath ſaid, I will never leave thee nor forſake thee, <hi>Ioſua</hi> 1. 5. ſo that we may boldly ſay, the Lord is my helper, and I will not fear what man ſhall do unto me, <hi>Heb.</hi> 13. 6. Now if any of you will not walk in Gods way and Councel, according to the plain truth, ſincerely ſet forth unto you; but if we ſhall ſtill do wickedly, ye ſhall be conſumed, both ye and your King. <hi>Sam:</hi> 12. <hi>ult.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:154162:5" rendition="simple:additions"/>
+            <pb facs="tcp:154162:5" rendition="simple:additions"/>
+         </div>
+      </body>
+   </text>
+</TEI>
